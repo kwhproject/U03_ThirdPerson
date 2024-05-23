@@ -1,0 +1,9 @@
+,Type,Attack,CriticalCount,CriticalMinRate,CriticalMaxRate
+F0,Fist,10,5,0.1,0.5
+F1,Fist,10,0,0,0
+F2,Fist,15,0,0,0
+S0,Sword,15,2,0.5,1
+S1,Sword,20,0,0,0
+S2,Sword,30,0,0,0
+MF,FireBall,10,3,0.1,0.5
+MT,ThunderBall,20,3,0.1,0.5
